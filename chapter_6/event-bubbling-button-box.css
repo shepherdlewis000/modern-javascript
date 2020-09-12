@@ -1,0 +1,20 @@
+.black{
+  background-color: black;
+  color: black;
+}
+
+.button-box{
+  background-color: gold;
+}
+
+.button-box-classic{
+  padding: 0.7rem;
+  background-color: pink;
+}
+
+.standard-button{
+  display:block;
+  width: 100%;
+  border: none;
+
+}
